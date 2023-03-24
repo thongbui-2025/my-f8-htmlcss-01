@@ -60,7 +60,7 @@ a {
 
 
 /* ---------- Header ---------- */
-.sticky-header {
+.fixed-header {
     background-color: #E6F0FF;
     padding-top: 26px;
     position: sticky;
@@ -112,7 +112,7 @@ a {
 }
 
 .hero {
-    padding-top: 130px;
+    margin-top: 130px;
 }
 
 .hero .info {
