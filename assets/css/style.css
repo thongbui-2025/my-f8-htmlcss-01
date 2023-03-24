@@ -8,6 +8,10 @@
     --primary-color: #0F1B4C;
 }
 
+html, body {
+    scroll-behavior: smooth;
+}
+
 html {
     font-size: 62.5%;
 }
@@ -93,6 +97,10 @@ a {
     font-size: 1.4rem;
     color: #4F5361;
     padding: 8px 14px;
+}
+
+.navbar ul a:hover {
+    text-decoration: underline;
 }
 
 .navbar .actions {
